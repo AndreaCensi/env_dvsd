@@ -1,0 +1,9 @@
+DVSUSER=dvsd
+DVSHOME=/1307-dvsd-ws/dvsd
+mkdir $DVSHOME
+adduser --home $DVSHOME --uid 9500 --shell /bin/zsh $DVSUSER
+
+# password dadada
+sudo chown -R $DVSUSER $DVSHOME
+sudo chgrp -R $DVSUSER $DVSHOME
+

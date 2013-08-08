@@ -1,0 +1,22 @@
+- code:
+  - rawlogs.library.Multiple
+  - annotations:
+      sync:
+        consistency: 0.11262702941894531
+        parameters: {aer_guess: 0, aer_interval: 15, aer_signal: aer, id_rawlog: uzhturtle-a-2012-12-12-12-49-19,
+          img_signal: /camera/image_raw/compressed, imu_signal: /imu/data}
+      tags: [synced]
+    logs:
+    - - log_sync.SyncedLog
+      - biases:
+          aer: [rostime, 1355310869.0360994]
+        rawlog: uzhturtle-a-2012-12-12-12-49-19
+    - - log_sync.SyncedLog
+      - biases:
+          /imu/data: [rostime, 0.6779971122741699]
+        rawlog: uzhturtle-a-2012-12-12-12-49-19
+    - - rawlogs.library.RemoveSignals
+      - rawlog: uzhturtle-a-2012-12-12-12-49-19
+        signals: [aer, /imu/data]
+  desc: 'Synced version of uzhturtle-a-2012-12-12-12-49-19 (consistency: 0.113s)'
+  id: uzhturtle-a-2012-12-12-12-49-19-synced

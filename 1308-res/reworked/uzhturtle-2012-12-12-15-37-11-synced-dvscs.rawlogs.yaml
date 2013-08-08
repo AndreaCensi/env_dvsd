@@ -1,0 +1,11 @@
+- code:
+  - rawlogs.library.Multiple
+  - annotations: {}
+    logs:
+    - uzhturtle-2012-12-12-15-37-11-synced-dvsc
+    - - log_sync.SyncedLog2
+      - biases:
+          dvscs: {bias: -1.4711458683013916, reftime: rostime, signal: dvsc}
+        rawlog: uzhturtle-2012-12-12-15-37-11-synced-dvsc
+  desc: Synced version of uzhturtle-2012-12-12-15-37-11-synced-dvsc (bias, -1.471s)
+  id: uzhturtle-2012-12-12-15-37-11-synced-dvscs

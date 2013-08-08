@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">env_dvsd</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/env_dvsd/src/compmake/src</path>
+<path>/env_dvsd/src/conf_tools/src</path>
+<path>/env_dvsd/src/contracts/src</path>
+<path>/env_dvsd/src/geometry/src</path>
+<path>/env_dvsd/src/procgraph/src</path>
+<path>/env_dvsd/src/quickapp/src</path>
+<path>/env_dvsd/src/reprep/src</path>
+<path>/env_dvsd/src/astatsa/src</path>
+<path>/env_dvsd/src/rcl/src</path>
+<path>/env_dvsd/src/dvs_loc/src</path>
+<path>/env_dvsd/src/dvs_loc/src</path>
+<path>/env_dvsd/src/astatsa/src</path>
+<path>/env_dvsd/src/boot_agents/src</path>
+<path>/env_dvsd/src/boot_olympics/src</path>
+<path>/env_dvsd/src/compmake/src</path>
+<path>/env_dvsd/src/conf_tools/src</path>
+<path>/env_dvsd/src/contracts/src</path>
+<path>/env_dvsd/src/dvs_loc/src</path>
+<path>/env_dvsd/src/geometry/src</path>
+<path>/env_dvsd/src/latex_gen/src</path>
+<path>/env_dvsd/src/procgraph/src</path>
+<path>/env_dvsd/src/quickapp/src</path>
+<path>/env_dvsd/src/rcl/src</path>
+<path>/env_dvsd/src/reprep/src</path>
+<path>/env_dvsd/src/ros_node_utils/src</path>
+<path>/env_dvsd/src/rosstream2boot/src</path>
+<path>/env_dvsd/src/vehicles/src</path>
+<path>/env_dvsd/src/yc1304/src</path>
+<path>/env_dvsd/src/rawlogs/src</path>
+<path>/env_dvsd/src/decent_logs/src</path>
+<path>/env_dvsd/src/comptests/src</path>
+<path>/env_dvsd/src/system_cmd/src</path>
+<path>/env_dvsd/src/hdflogs/src</path>
+<path>/env_dvsd/datasets/dataset_turtle_dvs/src</path>
+</pydev_pathproperty>
+</pydev_project>
