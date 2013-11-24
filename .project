@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1366928929322</id>
+			<id>1378708503592</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -25,7 +25,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929322</id>
+			<id>1378708503593</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
@@ -34,7 +34,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929323</id>
+			<id>1378708503594</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
@@ -43,7 +43,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929323</id>
+			<id>1378708503595</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -52,7 +52,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929324</id>
+			<id>1378708503595</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
@@ -61,7 +61,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929325</id>
+			<id>1378708503596</id>
 			<name></name>
 			<type>22</type>
 			<matcher>
@@ -70,7 +70,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929325</id>
+			<id>1378708503597</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
@@ -79,7 +79,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929326</id>
+			<id>1378708503598</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -88,7 +88,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929327</id>
+			<id>1378708503600</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -97,7 +97,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929328</id>
+			<id>1378708503601</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -106,12 +106,39 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1366928929328</id>
+			<id>1378708503602</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
 				<id>org.eclipse.ui.ide.multiFilter</id>
 				<arguments>1.0-name-matches-false-false-dist</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1378708503603</id>
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-workspaces</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1378708503605</id>
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-deploy</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1378708503606</id>
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-out-*</arguments>
 			</matcher>
 		</filter>
 	</filteredResources>

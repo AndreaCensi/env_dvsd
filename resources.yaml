@@ -116,3 +116,15 @@
 - dir: src/hdflogs
   url: git@github.com:AndreaCensi/hdflogs.git
   branch: env_dvsd
+
+- dir: src/latex_symbol_list
+  url: git@github.com:AndreaCensi/latex_symbol_list.git
+  branch: env_dvsd
+
+- dir: docs/dvsd1
+  url: git@github.com:AndreaCensi/dvsd1.git
+  branch: env_dvsd
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+  branch: env_dvsd
