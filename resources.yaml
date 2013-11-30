@@ -1,21 +1,21 @@
 
-- dir: src/sophus
-  url: https://github.com/cfo/sophus.git
+# - dir: src/sophus
+#   url: https://github.com/cfo/sophus.git
 
-- dir: src/rpg_tools
-  url: git@github.com:ailab/rpg_tools.git
+# - dir: src/rpg_tools
+#   url: git@github.com:ailab/rpg_tools.git
 
-- dir: src/vikit
-  url: git@github.com:ailab/vikit.git
+# - dir: src/vikit
+#   url: git@github.com:ailab/vikit.git
 
-- dir: src/rpg_slam
-  url: git@github.com:ailab/rpg_slam.git
+# - dir: src/rpg_slam
+#   url: git@github.com:ailab/rpg_slam.git
 
 - dir: src/rpg_dvs
   url: git@github.com:ailab/rpg_dvs.git
 
-- dir: src/rpg_reconstruction
-  url: git@github.com:ailab/rpg_reconstruction.git
+# - dir: src/rpg_reconstruction
+#   url: git@github.com:ailab/rpg_reconstruction.git
 
 - dir: src/contracts
   url: git@github.com:AndreaCensi/contracts.git
