@@ -11,8 +11,8 @@
 # - dir: src/rpg_slam
 #   url: git@github.com:ailab/rpg_slam.git
 
-- dir: src/rpg_dvs
-  url: git@github.com:ailab/rpg_dvs.git
+# - dir: src/rpg_dvs
+#   url: git@github.com:ailab/rpg_dvs.git
 
 # - dir: src/rpg_reconstruction
 #   url: git@github.com:ailab/rpg_reconstruction.git
